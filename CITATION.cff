@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: Widget Mot astro du jour
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Daniel
+    family-names: Dubois
+    email: daniel@web-eau.net
+repository-code: 'https://github.com/astrosemantics/widget_mot_du_jour'
+abstract: >-
+  An Android widget (KWGT, 4×3 format) that presents one
+  astronomy word a day from a glossary of 290 words in 12
+  themes, with a simple definition, a concrete example, a
+  small drawing and a Wikipedia link. On sky-event days (Moon
+  phases, equinoxes and solstices, meteor showers) the word
+  follows the news of the sky. Turns red at night. Texts in
+  French.
+keywords:
+  - Android
+  - Widget
+  - Astronomy
+  - Glossary
+license: CC-BY-4.0
+version: 1.1.0
+date-released: '2026-10-25'
